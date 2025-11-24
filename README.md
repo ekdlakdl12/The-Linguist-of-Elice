@@ -72,8 +72,8 @@ PW : test
 ## 1. 데이터베이스 설계 (ERD)
 
 <div align="center">
-    
-  <img src="assets/ERD.png" alt="프로젝트 엔티티 관계 다이어그램" width="650" />
+
+  <img width="431" height="749" alt="ERD" src="https://github.com/user-attachments/assets/e81296c7-b004-4075-8a75-341273e6a63e" />
   
   <br>
   
@@ -84,7 +84,7 @@ PW : test
 
 <div align="center">
   
-  <img src="assets/화면구성.webp" alt="프로젝트 주요 화면 및 페이지 흐름도" width="850" />
+   ![화면구성](https://github.com/user-attachments/assets/1599c39b-0540-4e74-892d-6fc0c537daa3)
   
   <br>
   
