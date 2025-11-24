@@ -67,4 +67,26 @@ PW : test
 # API 명세서  
 → <a href="https://docs.google.com/spreadsheets/d/1zf1ba67KJeYdKVzmxcpR9E7Rf_9xZpqaGcunBZAFwtM/edit?gid=0#gid=0">API 명세서 바로가기</a>
   
-</div>
+# 🏛️ 프로젝트 아키텍처 및 구조
+
+## 1. 데이터베이스 설계 (ERD)
+
+<div align="center">
+    
+  <img src="assets/ERD.png" alt="프로젝트 엔티티 관계 다이어그램" width="650" />
+  
+  <br>
+  
+  <p>사용자(User)를 중심으로 교육, 자격증, 프로젝트, 수상 정보가 1:N 관계로 구성됩니다.</p>
+</div>  
+
+## 2. 주요 화면 구성 및 흐름 (Wireframe)
+
+<div align="center">
+  
+  <img src="assets/화면구성.webp" alt="프로젝트 주요 화면 및 페이지 흐름도" width="850" />
+  
+  <br>
+  
+  <p>공통 페이지, 로그인/회원가입, 사용자 페이지(users), 개인 페이지(mypage)로 구성된 화면 흐름도입니다.</p>
+</div>  
