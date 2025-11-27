@@ -1,7 +1,13 @@
-# ⛰️ Valley-Tales: 포트폴리오 공유 플랫폼
-[![프로젝트 목적](https://img.shields.io/badge/목표-포트폴리오%20저장%20및%20공유-2a9d8f?style=for-the-badge)](https://github.com/Your-Repo-Link-Here) 
-[![엘리스 AI 트랙 11기](https://img.shields.io/badge/엘리스%20AI%20트랙-11기%20첫%20프로젝트-e63946?style=for-the-badge)](https://github.com/Your-Repo-Link-Here)
-[![개발 기간](https://img.shields.io/badge/기간-2024.06.17%7E06.28%20(2주)-0077b6?style=for-the-badge&logo=calendar&logoColor=white)]()
+<div align="center" style="background-color: #2a9d8f; padding: 50px 0; margin-bottom: 20px;">
+    <h1 style="color: white; font-size: 3em; margin: 0;">Valley-Tales</h1>
+    <p style="color: white; font-size: 1.2em; margin-top: 10px;">엘리스 AI 트랙 11기 포트폴리오 저장 및 공유 플랫폼</p>
+</div>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Status-Completed-3e913d?style=for-the-badge"/> 
+    <img src="https://img.shields.io/badge/Focus-Portfolio%20Sharing%20Platform-0077b6?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Duration-2%20Weeks%20Project-e76f51?style=for-the-badge&logo=calendar&logoColor=white"/>
+</p>
 
 > 엘리스 AI 트랙 11기 첫 번째 프로젝트로, 2팀에서 개발한 포트폴리오 저장 및 공유 서비스입니다.
 
