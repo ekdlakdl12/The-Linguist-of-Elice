@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2a9d8f&height=350&section=header&text=Valley-Tales&fontSize=80&fontColor=ffffff&fontAlign=center&desc=엘리스%20AI%20트랙%2011기%20포트폴리오%20저장%20및%20공유%20플랫폼&descAlign=center&descPosition=70" alt="Valley-Tales Header">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2a9d8f&height=400&section=header&text=Valley-Tales&fontSize=80&fontColor=ffffff&fontAlign=center&desc=엘리스%20AI%20트랙%2011기%20포트폴리오%20저장%20및%20공유%20플랫폼&descAlign=center&descPosition=65" alt="Valley-Tales Header">
 </h1>
 <div align="center">
 
